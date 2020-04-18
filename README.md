@@ -22,4 +22,4 @@ Threshold Value For Interrupt is purely experimental. Based on the Channel 0's R
 ## Resources 
 Application code can be found under *Core/src/main.c*.   
 For Adding Serial Printf function , I followed Shawn Hymel's [Tutorial](https://shawnhymel.com/1873/how-to-use-printf-on-stm32/).  
-Original Library From which i derived my library can be found [here](https://github.com/adafruit/Adafruit_TSL2561).
+Original Adafruit's Library From which i derived this Project's library can be found [here](https://github.com/adafruit/Adafruit_TSL2561).
