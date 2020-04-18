@@ -1,0 +1,12 @@
+TSL2561.c:22:6:TSL2561_Config	16	static
+TSL2561.c:42:7:TSL2561_Init	16	static
+TSL2561.c:71:6:TSL2561_enableAutoRange	16	static
+TSL2561.c:84:6:TSL2561_setIntegrationTime	16	static
+TSL2561.c:110:6:TSL2561_setGain	16	static
+TSL2561.c:139:6:TSL2561_getLuminosity	32	static
+TSL2561.c:228:6:TSL2561_Enable	8	static
+TSL2561.c:242:6:TSL2561_Disable	8	static
+TSL2561.c:256:6:TSL2561_getData	16	static
+TSL2561.c:308:10:TSL2561_calculateLux	56	static
+TSL2561.c:428:6:TSL2561_Config_Intr	24	static
+TSL2561.c:459:6:TSL2561_Clr_Int	8	static
